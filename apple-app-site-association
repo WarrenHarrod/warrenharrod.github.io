@@ -3,10 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": lab.monstar.nfc.dev",
-        "paths": [
-          "*"
-        ]
+        "appID": "Q74JQV8T3Y.lab.monstar.nfc.dev",
+        "paths": [ "*" ]
       }
     ]
   }
