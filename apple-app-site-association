@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": lab.monstar.nfc.dev",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
